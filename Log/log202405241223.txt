@@ -1,0 +1,17 @@
+2024-05-24 12:23:00.597 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7051/_framework/aspnetcore-browser-refresh.js - -
+2024-05-24 12:23:00.606 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7051/swagger/index.html - - - 200 - text/html;charset=utf-8 746.5606ms
+2024-05-24 12:23:00.626 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7051/_framework/aspnetcore-browser-refresh.js - - - 200 12374 application/javascript;+charset=utf-8 29.4485ms
+2024-05-24 12:23:00.679 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7051/_vs/browserLink - -
+2024-05-24 12:23:00.770 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7051/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 93.2854ms
+2024-05-24 12:23:00.892 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7051/swagger/v1/swagger.json - -
+2024-05-24 12:23:01.040 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7051/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 147.7597ms
+2024-05-24 12:23:16.902 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7051/api/Student - -
+2024-05-24 12:23:16.918 +05:30 [INF] Executing endpoint 'WebAPIPracticeProject.Controllers.StudentController.GetStudents (WebAPIPracticeProject)'
+2024-05-24 12:23:16.971 +05:30 [INF] Route matched with {action = "GetStudents", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetStudents() on controller WebAPIPracticeProject.Controllers.StudentController (WebAPIPracticeProject).
+2024-05-24 12:23:16.975 +05:30 [INF] Executed Logger
+2024-05-24 12:23:16.976 +05:30 [ERR] Logged Error
+2024-05-24 12:23:16.976 +05:30 [FTL] Logged Critical
+2024-05-24 12:23:16.982 +05:30 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-05-24 12:23:16.995 +05:30 [INF] Executed action WebAPIPracticeProject.Controllers.StudentController.GetStudents (WebAPIPracticeProject) in 12.4228ms
+2024-05-24 12:23:16.996 +05:30 [INF] Executed endpoint 'WebAPIPracticeProject.Controllers.StudentController.GetStudents (WebAPIPracticeProject)'
+2024-05-24 12:23:16.996 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7051/api/Student - - - 200 0 - 93.8344ms

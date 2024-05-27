@@ -1,0 +1,6 @@
+2024-05-24 12:22:59.027 +05:30 [INF] Now listening on: https://localhost:7051
+2024-05-24 12:22:59.075 +05:30 [INF] Now listening on: http://localhost:5252
+2024-05-24 12:22:59.081 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-24 12:22:59.082 +05:30 [INF] Hosting environment: Development
+2024-05-24 12:22:59.082 +05:30 [INF] Content root path: C:\Users\abbe\Desktop\ASP DOT PROJECTS\WebAPIPracticeProject\
+2024-05-24 12:22:59.863 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7051/swagger/index.html - -
